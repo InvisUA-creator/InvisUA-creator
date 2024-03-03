@@ -11,7 +11,7 @@ I am also interested in such areas as Machine Learning, Artificial Intelligence,
    <a href="https://www.linkedin.com/in/dmytro-kostenko-379a27280/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/@InvisUA">
+   <a href="https://t.me/InvisUA">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <!-- <p align='center'>
