@@ -8,7 +8,7 @@ I am also interested in such areas as Machine Learning, Artificial Intelligence,
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/dmytro-kostenko/">
+   <a href="https://www.linkedin.com/in/dmytro-kostenko-379a27280/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/@InvisUA">
