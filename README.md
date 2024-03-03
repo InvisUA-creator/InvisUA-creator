@@ -1,17 +1,3 @@
-### Hi there 👋, my name is Dmytro
-I'm studying to become a Python engineer at GoIT.
-I am also interested in such areas as Machine Learning, Artificial Intelligence, and Deep Learning.
-
-Skills: Python
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
-
-
 
 # Hi, I'm Dmytro 👋
 I'm studying to become a Python engineer at GoIT.
