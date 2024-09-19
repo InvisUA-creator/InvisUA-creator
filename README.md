@@ -19,8 +19,9 @@ I am also interested in such areas as Machine Learning, Artificial Intelligence,
   
 ### Skills
     
-<a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
 <a href="http://www.github.com/InvisUA-creator"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=InvisUA-creator&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="InvisUA-creator's GitHub stats" /></a>
+
+<a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
    
    
    
