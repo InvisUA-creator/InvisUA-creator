@@ -35,9 +35,8 @@ src="https://github-readme-stats.vercel.app/api?username=InvisUA-creator&show_ic
 <img src="https://u8views.com/api/v1/github/profiles/106020060/views/day-week-month-total-count.svg"/>
 </a>
 
-(https://u8views.com/api/v1/github/profiles/106020060/views/day-week-month-total-count.svg)
    
-   
+[![Dmytro_Kostenko profile views](https://u8views.com/api/v1/github/profiles/106020060/views/day-week-month-total-count.svg)](https://u8views.com/github/InvisUA-creator)
    
    
    
