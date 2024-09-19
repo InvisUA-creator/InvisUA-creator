@@ -2,7 +2,10 @@
 # Hi, I'm Dmytro 👋
 I'm studying to become a Python engineer at GoIT.
 I am also interested in such areas as Machine Learning, Artificial Intelligence, and Deep Learning.
-[![Dmytro_Kostenko profile views](https://u8views.com/api/v1/github/profiles/106020060/views/day-week-month-total-count.svg)](https://u8views.com/github/InvisUA-creator)
+<div align="center"[![Dmytro_Kostenko profile views](https://u8views.com/api/v1/github/profiles/106020060/views/day-week-month-total-count.svg)](https://u8views.com/github/InvisUA-creator)
+   </div>
+
+<p align='center'>
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/InvisUA-creator/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=InvisUA-creator&color=DE002D">
