@@ -30,7 +30,9 @@ I am also interested in such areas as Machine Learning, Artificial Intelligence,
 <img alt="InvisUA-creator GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=InvisUA-creator&show_icons=true&theme=transparent"/>
 
-<a href="https://u8views.com/github/InvisUA-creator"> <img src="https://u8views.com/api/v1/github/profiles/106020060/views/day-week-month-total-count.svg"/> </a>
+<a href="https://u8views.com/github/InvisUA-creator">
+<img src="https://u8views.com/api/v1/github/profiles/106020060/views/day-week-month-total-count.svg"/>
+</a>
    
    
    
