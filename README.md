@@ -23,8 +23,8 @@ I am also interested in such areas as Machine Learning, Artificial Intelligence,
 
 <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
 
-<img alt="Dmytro_Kostenko GitHub stats"
-src="https://github-readme-stats.vercel.app/api?username=Dmytro_Kostenko&show_icons=true&theme=transparent"/>
+<img alt="InvisUA-creator GitHub stats"
+src="https://github-readme-stats.vercel.app/api?username=InvisUA-creator&show_icons=true&theme=transparent"/>
    
    
    
