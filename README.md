@@ -11,13 +11,6 @@ I am also interested in such areas as Machine Learning, Artificial Intelligence,
        <img width="175px" src="https://komarev.com/ghpvc/?username=InvisUA-creator&color=DE002D">
    </a>
 </div>
-<p align='center'>
-   <a href="https://u8views.com/github/InvisUA-creator">
-      <img src="https://u8views.com/api/v1/github/profiles/106020060/views/day-week-month-total-count.svg"/>
-   </a>
-</div>
-
-
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/dmytro-kostenko-379a27280/">
@@ -41,6 +34,8 @@ src="https://github-readme-stats.vercel.app/api?username=InvisUA-creator&show_ic
 <a href="https://u8views.com/github/InvisUA-creator">
 <img src="https://u8views.com/api/v1/github/profiles/106020060/views/day-week-month-total-count.svg"/>
 </a>
+
+[![Hits](https://u8views.com/api/v1/github/profiles/106020060/views/day-week-month-total-count.svg)](https://u8views.com/github/InvisUA-creator)
    
    
    
