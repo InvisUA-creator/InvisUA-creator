@@ -30,6 +30,13 @@ I am also interested in such areas as Machine Learning, Artificial Intelligence,
 <img alt="InvisUA-creator GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=InvisUA-creator&show_icons=true&theme=transparent"/>
 
+## 🛠 Technical Stack
+*   Java/Kotlin/Groovy/COBOL languages
+*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
+*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
+*   Camunda, Camunda Cockpit, Camunda Modeleter
+*   GitHub/GitLab/Gerrit/Bitbucket
+
 
    
 
