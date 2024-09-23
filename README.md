@@ -1,9 +1,8 @@
 
-# Hi, I'm Dmytro 👋
+## Hi, I'm Dmytro 👋
 I'm studying to become a Python engineer at GoIT.
 I am also interested in such areas as Machine Learning, Artificial Intelligence, and Deep Learning.
-<!--<div align="center"[![Dmytro_Kostenko profile views](https://u8views.com/api/v1/github/profiles/106020060/views/day-week-month-total-count.svg)](https://u8views.com/github/InvisUA-creator)
-   </div>-->
+
 
 <p align='center'>
 <div align="center" style="margin: 40px 0">
