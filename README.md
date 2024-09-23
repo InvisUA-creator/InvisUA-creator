@@ -38,7 +38,7 @@ src="https://github-readme-stats.vercel.app/api?username=InvisUA-creator&show_ic
 ## 🛠 Technical Stack
 *   Python languages
 *   MySQL, PostgreSQL
-*   GitHub/GitLab
+*   Git/GitHub
 
 
    
