@@ -28,13 +28,15 @@ I am also interested in such areas as Machine Learning, Artificial Intelligence,
 <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/mysql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/postgresql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/git/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
+
 
 <img alt="InvisUA-creator GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=InvisUA-creator&show_icons=true&theme=transparent"/>
 
 ## 🛠 Technical Stack
 *   Python languages
-*   MySQL, PostgreSQL, MongoDB
+*   MySQL, PostgreSQL
 *   GitHub/GitLab
 
 
