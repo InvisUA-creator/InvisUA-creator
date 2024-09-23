@@ -1,5 +1,6 @@
-
+<a align='center'>
 ## Hi, I'm Dmytro 👋
+</a align='center'>
 
 <a align='center'>
 I'm studying to become a Python engineer at GoIT.
