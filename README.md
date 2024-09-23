@@ -1,7 +1,7 @@
 
 ## Hi, I'm Dmytro 👋
 
-<p align='center'>
+<a align='center'>
 I'm studying to become a Python engineer at GoIT.
 I am also interested in such areas as Machine Learning, Artificial Intelligence, and Deep Learning.
 
