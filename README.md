@@ -1,6 +1,7 @@
-<a align='center'>
+<div align="center"> 
 ## Hi, I'm Dmytro 👋
-</a align='center'>
+</div>
+
 
 <a align='center'>
 I'm studying to become a Python engineer at GoIT.
