@@ -26,16 +26,15 @@ I am also interested in such areas as Machine Learning, Artificial Intelligence,
 <!--<a href="http://www.github.com/InvisUA-creator"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=InvisUA-creator&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="InvisUA-creator's GitHub stats" /></a>-->
 
 <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/mysql/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 <img alt="InvisUA-creator GitHub stats"
 src="https://github-readme-stats.vercel.app/api?username=InvisUA-creator&show_icons=true&theme=transparent"/>
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   Python languages
+*   MySQL, PostgreSQL, MongoDB
+*   GitHub/GitLab
 
 
    
