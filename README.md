@@ -1,4 +1,4 @@
-<p align='center'>
+
 ## Hi, I'm Dmytro 👋
 
 <p align='center'>
