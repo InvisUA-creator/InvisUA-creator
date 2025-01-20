@@ -37,7 +37,7 @@ I am also interested in such areas as Machine Learning, Artificial Intelligence,
 src="https://github-readme-stats.vercel.app/api?username=InvisUA-creator&show_icons=true&theme=transparent"/>
 
 ## 🛠 Technical Stack
-*   Python
+*   Python, FastAPI, Django 
 *   MySQL, PostgreSQL
 *   Git/GitHub
 
